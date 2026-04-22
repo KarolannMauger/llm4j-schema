@@ -3,10 +3,11 @@
 > Structured, type-safe LLM output for Java.
 > Stop parsing raw strings — get real Java objects from any LLM.
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.KarolannMauger/llm4j-schema-core.svg)](https://central.sonatype.com/artifact/io.github.KarolannMauger/llm4j-schema-core)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.karolannmauger/llm4j-schema-core.svg)](https://central.sonatype.com/artifact/io.github.karolannmauger/llm4j-schema-core)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/java-21%2B-orange.svg)](https://openjdk.org/projects/jdk/21/)
 [![Build](https://img.shields.io/github/actions/workflow/status/KarolannMauger/llm4j-schema/ci.yml)](https://github.com/KarolannMauger/llm4j-schema/actions)
+[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?logo=ko-fi)](https://ko-fi.com/karolannmauger)
 
 ---
 
