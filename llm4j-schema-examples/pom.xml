@@ -6,14 +6,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io.llm4j</groupId>
+        <groupId>io.github.karolannmauger</groupId>
         <artifactId>llm4j-schema-parent</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.1.0</version>
     </parent>
 
     <artifactId>llm4j-schema-examples</artifactId>
     <name>llm4j-schema-examples</name>
     <description>Runnable examples (not published to Maven Central)</description>
+
+    <properties>
+        <maven.deploy.skip>true</maven.deploy.skip>
+    </properties>
 
     <dependencyManagement>
         <dependencies>
@@ -29,7 +33,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.llm4j</groupId>
+            <groupId>io.github.karolannmauger</groupId>
             <artifactId>llm4j-schema-spring-boot-starter</artifactId>
             <version>${project.version}</version>
         </dependency>
