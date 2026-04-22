@@ -1,0 +1,9 @@
+llm4j:
+  provider: openai
+  api-key: ${OPENAI_API_KEY}
+  # model: gpt-4o-mini    # optional — uses default if not set
+  # max-retries: 3        # optional
+
+spring:
+  main:
+    web-application-type: none  # CLI app, no web server
